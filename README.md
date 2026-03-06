@@ -12,7 +12,7 @@ A Glyph Toy for Nothing Phone (3) that pulses at exactly 180 BPM on the Glyph Ma
 
 - Nothing Phone (3)
 
-> **Note:** May be compatible with Nothing Phone (4a) Pro, however that device features a 15×15 px Glyph Matrix and the display pattern has not been tested or optimized for it.
+> **Note:** > **Note:** Not compatible with smaller (4a) Pro Glyph Matrix
 
 ## Installation
 
